@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class First {
 	
 	public static void main(String args[]) {
-		
+		//MErging
 		FirefoxDriver fd1 = new FirefoxDriver();
 		fd1.get("http://www.mercurytravels.co.in");
 		fd1.manage().window().maximize();
